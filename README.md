@@ -1,6 +1,5 @@
 # COGNIFYZ_LEVEL1_TASK1
 # 📁 Level 1 - Task 1: Top 3 Most Common Cuisines
-
 ## Description
 This project focuses on identifying the top 3 most frequently occurring cuisines across all restaurants in the dataset. The goal is to understand customer preferences and the dominant food trends in the region.
 
